@@ -1,0 +1,153 @@
+index,salary
+job_title_Machine Learning Engineer,0.19609635928451616
+job_title_Research Scientist,0.11415824704290746
+job_title_Applied Scientist,0.09817144360164455
+Neutral,0.09275168924117994
+job_title_Research Engineer,0.08248729019483078
+job_title_ML Engineer,0.07156855885926418
+job_title_Data Science Manager,0.056605996630341
+job_title_Head of Data,0.05605212816865935
+job_title_Machine Learning Scientist,0.0549663989896892
+job_title_Director of Data Science,0.04576284775468728
+job_title_Head of Machine Learning,0.0456973526108498
+job_title_Data Scientist,0.03408359726091934
+job_title_Data Infrastructure Engineer,0.029483356499691558
+job_title_Analytics Engineering Manager,0.028779439462731527
+job_title_Data Architect,0.027960435059994047
+job_title_Prompt Engineer,0.026340852376902
+job_title_Data Science Tech Lead,0.025919059299065704
+job_title_Analytics Engineer,0.025796899179194182
+job_title_Data Analytics Lead,0.02537144861168218
+job_title_Managing Director Data Science,0.021209887614346196
+job_title_Machine Learning Software Engineer,0.01732301034798891
+job_title_AI Engineer,0.01684308157816393
+job_title_Deep Learning Engineer,0.016435817901625724
+job_title_Principal Data Scientist,0.016196414520096947
+job_title_Robotics Software Engineer,0.015310243829500969
+job_title_Computer Vision Engineer,0.015053742949302982
+job_title_AWS Data Architect,0.012467914638740012
+job_title_Machine Learning Infrastructure Engineer,0.011795871877273338
+job_title_Decision Scientist,0.011737132154199944
+job_title_Cloud Data Architect,0.011548178251709203
+job_title_Head of Data Science,0.011487669485488917
+job_title_Data Science Lead,0.010579908015778336
+job_title_Computational Biologist,0.009389537499712776
+job_title_Data Science Director,0.00906274424460917
+job_title_Director of Business Intelligence,0.006170034435413662
+job_title_Data Lead,0.006094395730086187
+job_title_Data Product Manager,0.005073609484397594
+job_title_Staff Machine Learning Engineer,0.0040753201070837354
+job_title_Machine Learning Modeler,0.0038693433815553493
+job_title_Data Pipeline Engineer,0.0037311393253165255
+job_title_Principal Data Engineer,0.0018663619765998658
+job_title_ML Ops Engineer,0.0011133919071455688
+job_title_AI Software Engineer,0.00041577218531635483
+job_title_Machine Learning Researcher,4.86552002506758e-05
+job_title_Machine Learning Manager,-8.871150537881177e-05
+job_title_Marketing Data Analyst,-0.0008495934704679765
+job_title_MLOps Engineer,-0.0014929201831070935
+job_title_Finance Data Analyst,-0.0015171786731537368
+job_title_AI Product Manager,-0.0015504352427512962
+job_title_Applied Machine Learning Engineer,-0.001558467268542313
+job_title_Data Integration Developer,-0.002063052084266904
+job_title_Data Scientist Lead,-0.0021786287124635926
+job_title_Staff Data Scientist,-0.0024473949535963025
+job_title_Data Strategy Manager,-0.002484043146759911
+job_title_Cloud Database Engineer,-0.002493773526438079
+job_title_Lead Data Engineer,-0.0029072201092697867
+job_title_Deep Learning Researcher,-0.002918930215140537
+job_title_Robotics Engineer,-0.003639568837461595
+job_title_Big Data Architect,-0.00370732816747247
+job_title_Big Data Developer,-0.003742439182678226
+job_title_Principal Machine Learning Engineer,-0.004007173048750288
+job_title_Cloud Data Engineer,-0.004124143381890702
+job_title_Principal Data Analyst,-0.004398511041674036
+job_title_Business Intelligence Lead,-0.004426744243299636
+job_title_Data Science Engineer,-0.004472801715388834
+job_title_Machine Learning Operations Engineer,-0.004493280834929869
+job_title_Data Visualization Analyst,-0.004804993560023561
+job_title_Business Intelligence Specialist,-0.004870022216612034
+job_title_Data Operations Manager,-0.006105842537318382
+job_title_Data Visualization Engineer,-0.006111591425239899
+job_title_Business Intelligence Manager,-0.006404810629077725
+job_title_Data Analytics Associate,-0.006731582440528424
+job_title_Marketing Data Scientist,-0.006846549488907301
+job_title_AI Developer,-0.007062604849318954
+job_title_Data Product Owner,-0.0072398357235414395
+job_title_Data Operations Engineer,-0.007417002547960778
+job_title_Software Data Engineer,-0.007552349920000986
+job_title_Azure Data Engineer,-0.00805685370681977
+job_title_NLP Engineer,-0.008708730618990966
+job_title_Data Management Consultant,-0.009276301261868397
+job_title_Marketing Data Engineer,-0.009494240613072275
+job_title_Applied Research Scientist,-0.00952919059577934
+job_title_AI Research Scientist,-0.009609809749693924
+job_title_Power BI Developer,-0.009745903481973583
+job_title_ETL Engineer,-0.01022820935522461
+job_title_BI Data Engineer,-0.010295560940272844
+job_title_Sales Data Analyst,-0.010295560940272884
+job_title_Consultant Data Engineer,-0.010614523008778635
+job_title_Business Intelligence Data Analyst,-0.010786871596558823
+job_title_Autonomous Vehicle Technician,-0.010857111775729624
+job_title_Data Science Analyst,-0.011164863908257237
+job_title_Manager Data Management,-0.011226279198894734
+job_title_Quantitative Research Analyst,-0.011330264375682556
+job_title_CRM Data Analyst,-0.01259490190784992
+job_title_Data Quality Engineer,-0.012650049665171772
+job_title_Data Analyst Lead,-0.012690754416004287
+job_title_Principal Data Architect,-0.012807131079157302
+job_title_Data Reporting Analyst,-0.012893995675179135
+job_title_Data Analytics Manager,-0.013553642674042594
+job_title_Financial Data Analyst,-0.013608141274903843
+job_title_Staff Data Analyst,-0.01386724808158695
+job_title_Data Integration Engineer,-0.014548634755353647
+job_title_Machine Learning Specialist,-0.01537353903711127
+job_title_Lead Machine Learning Engineer,-0.015745246775872596
+job_title_Data Visualization Specialist,-0.01593856792631303
+job_title_Data Modeler,-0.016116547332944334
+job_title_AI Scientist,-0.016194146340005055
+job_title_Data Analytics Specialist,-0.016503387815820624
+job_title_ETL Developer,-0.016622455754364402
+job_title_Data DevOps Engineer,-0.016710784352745544
+job_title_Lead Data Scientist,-0.01693994864660833
+job_title_Compliance Data Analyst,-0.016999469110509365
+job_title_Data Management Specialist,-0.017058501230021384
+job_title_Business Intelligence Engineer,-0.017894492214520445
+job_title_Data Analytics Engineer,-0.018180709715984154
+job_title_Computer Vision Software Engineer,-0.018458075742185227
+job_title_Data Quality Manager,-0.018786187292684938
+job_title_Applied Machine Learning Scientist,-0.019478399610742655
+job_title_Admin & Data Analyst,-0.02017785541385993
+job_title_AI Research Engineer,-0.020258515558128156
+job_title_Data Operations Associate,-0.020265858333402786
+job_title_Data Analytics Consultant,-0.020445539400727335
+job_title_Machine Learning Research Engineer,-0.021441431713288807
+job_title_Applied Data Scientist,-0.021790314500134463
+job_title_Product Data Analyst,-0.022565049599648085
+job_title_Data Engineer,-0.022764809674263902
+job_title_Data Operations Specialist,-0.02316616835864038
+job_title_Lead Data Analyst,-0.023229378287451155
+job_title_BI Analyst,-0.023907983229794524
+job_title_Encounter Data Management Professional,-0.024959352565554146
+job_title_Machine Learning Developer,-0.02541596252010272
+job_title_Data Strategist,-0.026575912655416183
+job_title_AI Programmer,-0.026623330199542772
+job_title_Data Operations Analyst,-0.02993933794329111
+job_title_Data Management Analyst,-0.030764580635358977
+job_title_Data Integration Specialist,-0.030829514159102345
+job_title_Data Developer,-0.03265081966652678
+job_title_Big Data Engineer,-0.03318653160551328
+Negative,-0.0345617825592784
+job_title_Data Quality Analyst,-0.03722727605554358
+job_title_Business Data Analyst,-0.04005695872099028
+job_title_BI Data Analyst,-0.04094082322230877
+job_title_Business Intelligence Developer,-0.04250475509561631
+job_title_Insight Analyst,-0.04280242278452792
+job_title_Data Science Consultant,-0.045042057570592424
+job_title_Research Analyst,-0.04659255957712194
+job_title_BI Developer,-0.048166504184253355
+job_title_Business Intelligence Analyst,-0.05671821821298749
+job_title_Data Specialist,-0.062395968838559294
+job_title_Data Manager,-0.06859862497121615
+Positive,-0.08048312961363245
+job_title_Data Analyst,-0.255916048324045
